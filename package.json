@@ -1,0 +1,25 @@
+{
+  "name": "kompotkamila",
+  "version": "1.0.0",
+  "description": "auto tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrynaVaku/kompotKamila.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrynaVaku/kompotKamila/issues"
+  },
+  "homepage": "https://github.com/IrynaVaku/kompotKamila#readme",
+  "dependencies": {
+    "cypress": "^9.6.0"
+  }
+}

@@ -16,7 +16,9 @@ describe('Navigation page', () =>{
         // navigationPage.scheduleTopMenu().should('be.visible').contains('Schedule').click().wait(2000).go('back')
 
         const topMenu =['Client', 'Order', 'Estimate', 'Invoice', 'Payment', 'Schedule']
-        topMenu.forEach(el => cy.get(`[href*="/${el.toLowerCase()}"]`).should('be.visible').contains(`${el}`).click().wait(2000).go('back'))
+        topMenu.forEach(el => cy.get(`[href*="/${el.toLowerCase()}"]`)
+            .should('be.visible').contains(`${el}`).click()
+            .wait(2000).go('back'))
 
              navigationPage.humburgerMenuOpen('Address')
 
@@ -26,12 +28,12 @@ describe('Navigation page', () =>{
             navigationPage.iconBell().should('be.visible').click().wait(2000).go('back')
             navigationPage.iconClose().click()
 
-        navigationPage.iconUserDrop().should('be.visible').click().wait(2000)
-        navigationPage.dropProfile().should('be.visible').wait(2000).click().wait(2000).visit('/')
-        navigationPage.iconUserDrop().should('be.visible').click().wait(2000)
-        navigationPage.dropCompanyAccount().should('be.visible').wait(2000).click().wait(2000).visit('/')
-        navigationPage.iconUserDrop().should('be.visible').click().wait(2000)
-        navigationPage.dropLogout().should('be.visible').click().wait(2000);
-    cy.login()
+            navigationPage.iconUserDrop().should('be.visible').click().wait(2000)
+            navigationPage.dropProfile().should('be.visible').wait(2000).click().wait(2000).visit('/')
+            navigationPage.iconUserDrop().should('be.visible').click().wait(2000)
+            navigationPage.dropCompanyAccount().should('be.visible').wait(2000).click().wait(2000).visit('/')
+            navigationPage.iconUserDrop().should('be.visible').click().wait(2000)
+            navigationPage.dropLogout().should('be.visible').click().wait(2000);
+            cy.login()
 })
 })

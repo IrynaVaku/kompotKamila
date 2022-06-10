@@ -29,5 +29,4 @@ export default class NavigationPage {
     dropCompanyAccount = () => cy.get('li[data-qa="settings"]')
     dropLogout = () => cy.get('[data-qa="logout"]')
 
-
 }

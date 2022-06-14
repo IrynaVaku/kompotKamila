@@ -19,6 +19,15 @@ export default class ModalClient{
       this.flagChangeCountry().wait(500).click()
       cy.get('span.country-name').contains(country).scrollIntoView().click()
     }
+    // selectRandomPhoneCountry = () => {
+    //     this.changeCountryButton().click();
+    //     this.changeCountryMenu();
+    //     cy.get('ul[role="menu"] > li').then(($ele) => {
+    //         const list = Array.from($ele, (ele) => ele.innerText.split('\n'));
+    //         let index = Math.floor(Math.random() * list.length);
+    //         cy.get('li').contains(list[index][0]).click();
+    //     });
+    // };
 
 
     fieldSelectState  = () => cy.get('[qa_id="SelectStateInput"]').parent().parent()
@@ -43,4 +52,19 @@ export default class ModalClient{
     }
     this.listOfStates().contains(state).click();
 }
+
+    // selectRandomState = () => {
+    //     this.stateInputFieldButton().click();
+    //     this.stateInputMenu().then(($ele) => {
+    //         const states = Array.from($ele, (e) => e.innerText.split('\n'))
+    //             .join()
+    //             .split(',');
+    //         console.log(states);
+    //         let index = Math.floor(Math.random() * states.length);
+    //         console.log(index);
+    //         this.stateInputField();
+    //         cy.get(`li[data-value="${states[index]}"]`).click();
+    //     });
+    // };
+
 }

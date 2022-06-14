@@ -1,5 +1,5 @@
-import ModalClient from "../support/page_object/modalClient";
-import ClientPage from "../support/page_object/clientPage";
+import ModalClient from "../../support/page_object/modalClient";
+import ClientPage from "../../support/page_object/clientPage";
 const modalClient = new ModalClient()
 const clientPage = new ClientPage()
 

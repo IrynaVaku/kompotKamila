@@ -1,4 +1,4 @@
-import ClientPage from "../support/page_object/clientPage";
+import ClientPage from "../../support/page_object/clientPage";
 
 const clientPage = new ClientPage()
 

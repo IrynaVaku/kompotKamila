@@ -1,6 +1,7 @@
 export  default class BasePage{
 
     btnLogin = () => cy.get('[data-qa="login"]');
+    href = 'i/pricing'
     btnRegistration = () => cy.get('[data-qa="register"]');
-    logoKompot= () => cy.get('#logo');
+    logo= () => cy.get('span#logo');
 }

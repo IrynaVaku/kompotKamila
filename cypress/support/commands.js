@@ -28,7 +28,7 @@ Cypress.Commands.add('login', ()=> {
     cy.visit('/user/login')
     loginPage.emailField().type('test22@gmail.com');
     loginPage.passwordField().type('Qwerty123');
-    loginPage.loginBtn().click();
+    loginPage.loginBtn().click().wait(1000);
 })
 
 Cypress.Commands.add('navbar', ()=> {

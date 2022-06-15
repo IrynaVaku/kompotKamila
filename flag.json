@@ -1,0 +1,712 @@
+[
+  {
+    "shortCountryName": "af",
+    "fullCountryName": "Afghanistan",
+    "countryCode": "+93"
+  },
+  {
+    "shortCountryName": "al",
+    "fullCountryName": "Albania",
+    "countryCode": "+355"
+  },
+  {
+    "shortCountryName": "ad",
+    "fullCountryName": "Andorra",
+    "countryCode": "+376"
+  },
+  {
+    "shortCountryName": "ai",
+    "fullCountryName": "Anguilla",
+    "countryCode": "+1264"
+  },
+  {
+    "shortCountryName": "ag",
+    "fullCountryName": "Antigua and Barbuda",
+    "countryCode": "+1268"
+  },
+  {
+    "shortCountryName": "ar",
+    "fullCountryName": "Argentina",
+    "countryCode": "+54"
+  },
+  {
+    "shortCountryName": "am",
+    "fullCountryName": "Armenia",
+    "countryCode": "+374"
+  },
+  {
+    "shortCountryName": "aw",
+    "fullCountryName": "Aruba",
+    "countryCode": "+297"
+  },
+  {
+    "shortCountryName": "at",
+    "fullCountryName": "Austria",
+    "countryCode": "+43"
+  },
+  {
+    "shortCountryName": "az",
+    "fullCountryName": "Azerbaijan",
+    "countryCode": "+994"
+  },
+  {
+    "shortCountryName": "bs",
+    "fullCountryName": "Bahamas",
+    "countryCode": "+1242"
+  },
+  {
+    "shortCountryName": "bd",
+    "fullCountryName": "Bangladesh",
+    "countryCode": "+880"
+  },
+  {
+    "shortCountryName": "bb",
+    "fullCountryName": "Barbados",
+    "countryCode": "+1246"
+  },
+  {
+    "shortCountryName": "by",
+    "fullCountryName": "Belarus",
+    "countryCode": "+375"
+  },
+  {
+    "shortCountryName": "be",
+    "fullCountryName": "Belgium",
+    "countryCode": "+32"
+  },
+  {
+    "shortCountryName": "bz",
+    "fullCountryName": "Belize",
+    "countryCode": "+501"
+  },
+  {
+    "shortCountryName": "bm",
+    "fullCountryName": "Bermuda",
+    "countryCode": "+1441"
+  },
+  {
+    "shortCountryName": "bt",
+    "fullCountryName": "Bhutan",
+    "countryCode": "+975"
+  },
+  {
+    "shortCountryName": "bo",
+    "fullCountryName": "Bolivia",
+    "countryCode": "+591"
+  },
+  {
+    "shortCountryName": "ba",
+    "fullCountryName": "Bosnia and Herzegovina",
+    "countryCode": "+387"
+  },
+  {
+    "shortCountryName": "br",
+    "fullCountryName": "Brazil",
+    "countryCode": "+55"
+  },
+  {
+    "shortCountryName": "io",
+    "fullCountryName": "British Indian Ocean Territory",
+    "countryCode": "+246"
+  },
+  {
+    "shortCountryName": "vg",
+    "fullCountryName": "British Virgin Islands",
+    "countryCode": "+1284"
+  },
+  {
+    "shortCountryName": "bn",
+    "fullCountryName": "Brunei",
+    "countryCode": "+673"
+  },
+  {
+    "shortCountryName": "bg",
+    "fullCountryName": "Bulgaria",
+    "countryCode": "+359"
+  },
+  {
+    "shortCountryName": "kh",
+    "fullCountryName": "Cambodia",
+    "countryCode": "+855"
+  },
+  {
+    "shortCountryName": "ca",
+    "fullCountryName": "Canada",
+    "countryCode": "+1"
+  },
+  {
+    "shortCountryName": "bq",
+    "fullCountryName": "Caribbean Netherlands",
+    "countryCode": "+599"
+  },
+  {
+    "shortCountryName": "ky",
+    "fullCountryName": "Cayman Islands",
+    "countryCode": "+1345"
+  },
+  {
+    "shortCountryName": "cl",
+    "fullCountryName": "Chile",
+    "countryCode": "+56"
+  },
+  {
+    "shortCountryName": "cn",
+    "fullCountryName": "China",
+    "countryCode": "+86"
+  },
+  {
+    "shortCountryName": "co",
+    "fullCountryName": "Colombia",
+    "countryCode": "+57"
+  },
+  {
+    "shortCountryName": "cr",
+    "fullCountryName": "Costa Rica",
+    "countryCode": "+506"
+  },
+  {
+    "shortCountryName": "hr",
+    "fullCountryName": "Croatia",
+    "countryCode": "+385"
+  },
+  {
+    "shortCountryName": "cu",
+    "fullCountryName": "Cuba",
+    "countryCode": "+53"
+  },
+  {
+    "shortCountryName": "cw",
+    "fullCountryName": "Curaçao",
+    "countryCode": "+599"
+  },
+  {
+    "shortCountryName": "cy",
+    "fullCountryName": "Cyprus",
+    "countryCode": "+357"
+  },
+  {
+    "shortCountryName": "cz",
+    "fullCountryName": "Czech Republic",
+    "countryCode": "+420"
+  },
+  {
+    "shortCountryName": "dk",
+    "fullCountryName": "Denmark",
+    "countryCode": "+45"
+  },
+  {
+    "shortCountryName": "dm",
+    "fullCountryName": "Dominica",
+    "countryCode": "+1767"
+  },
+  {
+    "shortCountryName": "do",
+    "fullCountryName": "Dominican Republic",
+    "countryCode": "+1"
+  },
+  {
+    "shortCountryName": "ec",
+    "fullCountryName": "Ecuador",
+    "countryCode": "+593"
+  },
+  {
+    "shortCountryName": "sv",
+    "fullCountryName": "El Salvador",
+    "countryCode": "+503"
+  },
+  {
+    "shortCountryName": "ee",
+    "fullCountryName": "Estonia",
+    "countryCode": "+372"
+  },
+  {
+    "shortCountryName": "fk",
+    "fullCountryName": "Falkland Islands",
+    "countryCode": "+500"
+  },
+  {
+    "shortCountryName": "fo",
+    "fullCountryName": "Faroe Islands",
+    "countryCode": "+298"
+  },
+  {
+    "shortCountryName": "fi",
+    "fullCountryName": "Finland",
+    "countryCode": "+358"
+  },
+  {
+    "shortCountryName": "fr",
+    "fullCountryName": "France",
+    "countryCode": "+33"
+  },
+  {
+    "shortCountryName": "gf",
+    "fullCountryName": "French Guiana",
+    "countryCode": "+594"
+  },
+  {
+    "shortCountryName": "ge",
+    "fullCountryName": "Georgia",
+    "countryCode": "+995"
+  },
+  {
+    "shortCountryName": "de",
+    "fullCountryName": "Germany",
+    "countryCode": "+49"
+  },
+  {
+    "shortCountryName": "gi",
+    "fullCountryName": "Gibraltar",
+    "countryCode": "+350"
+  },
+  {
+    "shortCountryName": "gr",
+    "fullCountryName": "Greece",
+    "countryCode": "+30"
+  },
+  {
+    "shortCountryName": "gl",
+    "fullCountryName": "Greenland",
+    "countryCode": "+299"
+  },
+  {
+    "shortCountryName": "gd",
+    "fullCountryName": "Grenada",
+    "countryCode": "+1473"
+  },
+  {
+    "shortCountryName": "gp",
+    "fullCountryName": "Guadeloupe",
+    "countryCode": "+590"
+  },
+  {
+    "shortCountryName": "gt",
+    "fullCountryName": "Guatemala",
+    "countryCode": "+502"
+  },
+  {
+    "shortCountryName": "gy",
+    "fullCountryName": "Guyana",
+    "countryCode": "+592"
+  },
+  {
+    "shortCountryName": "ht",
+    "fullCountryName": "Haiti",
+    "countryCode": "+509"
+  },
+  {
+    "shortCountryName": "hn",
+    "fullCountryName": "Honduras",
+    "countryCode": "+504"
+  },
+  {
+    "shortCountryName": "hk",
+    "fullCountryName": "Hong Kong",
+    "countryCode": "+852"
+  },
+  {
+    "shortCountryName": "hu",
+    "fullCountryName": "Hungary",
+    "countryCode": "+36"
+  },
+  {
+    "shortCountryName": "is",
+    "fullCountryName": "Iceland",
+    "countryCode": "+354"
+  },
+  {
+    "shortCountryName": "in",
+    "fullCountryName": "India",
+    "countryCode": "+91"
+  },
+  {
+    "shortCountryName": "id",
+    "fullCountryName": "Indonesia",
+    "countryCode": "+62"
+  },
+  {
+    "shortCountryName": "ie",
+    "fullCountryName": "Ireland",
+    "countryCode": "+353"
+  },
+  {
+    "shortCountryName": "it",
+    "fullCountryName": "Italy",
+    "countryCode": "+39"
+  },
+  {
+    "shortCountryName": "jm",
+    "fullCountryName": "Jamaica",
+    "countryCode": "+1876"
+  },
+  {
+    "shortCountryName": "jp",
+    "fullCountryName": "Japan",
+    "countryCode": "+81"
+  },
+  {
+    "shortCountryName": "kz",
+    "fullCountryName": "Kazakhstan",
+    "countryCode": "+7"
+  },
+  {
+    "shortCountryName": "ks",
+    "fullCountryName": "Kosovo",
+    "countryCode": "+383"
+  },
+  {
+    "shortCountryName": "kg",
+    "fullCountryName": "Kyrgyzstan",
+    "countryCode": "+996"
+  },
+  {
+    "shortCountryName": "la",
+    "fullCountryName": "Laos",
+    "countryCode": "+856"
+  },
+  {
+    "shortCountryName": "lv",
+    "fullCountryName": "Latvia",
+    "countryCode": "+371"
+  },
+  {
+    "shortCountryName": "li",
+    "fullCountryName": "Liechtenstein",
+    "countryCode": "+423"
+  },
+  {
+    "shortCountryName": "lt",
+    "fullCountryName": "Lithuania",
+    "countryCode": "+370"
+  },
+  {
+    "shortCountryName": "lu",
+    "fullCountryName": "Luxembourg",
+    "countryCode": "+352"
+  },
+  {
+    "shortCountryName": "mo",
+    "fullCountryName": "Macau",
+    "countryCode": "+853"
+  },
+  {
+    "shortCountryName": "mk",
+    "fullCountryName": "Macedonia",
+    "countryCode": "+389"
+  },
+  {
+    "shortCountryName": "my",
+    "fullCountryName": "Malaysia",
+    "countryCode": "+60"
+  },
+  {
+    "shortCountryName": "mv",
+    "fullCountryName": "Maldives",
+    "countryCode": "+960"
+  },
+  {
+    "shortCountryName": "mt",
+    "fullCountryName": "Malta",
+    "countryCode": "+356"
+  },
+  {
+    "shortCountryName": "mq",
+    "fullCountryName": "Martinique",
+    "countryCode": "+596"
+  },
+  {
+    "shortCountryName": "mx",
+    "fullCountryName": "Mexico",
+    "countryCode": "+52"
+  },
+  {
+    "shortCountryName": "md",
+    "fullCountryName": "Moldova",
+    "countryCode": "+373"
+  },
+  {
+    "shortCountryName": "mc",
+    "fullCountryName": "Monaco",
+    "countryCode": "+377"
+  },
+  {
+    "shortCountryName": "mn",
+    "fullCountryName": "Mongolia",
+    "countryCode": "+976"
+  },
+  {
+    "shortCountryName": "me",
+    "fullCountryName": "Montenegro",
+    "countryCode": "+382"
+  },
+  {
+    "shortCountryName": "ms",
+    "fullCountryName": "Montserrat",
+    "countryCode": "+1664"
+  },
+  {
+    "shortCountryName": "mm",
+    "fullCountryName": "Myanmar",
+    "countryCode": "+95"
+  },
+  {
+    "shortCountryName": "np",
+    "fullCountryName": "Nepal",
+    "countryCode": "+977"
+  },
+  {
+    "shortCountryName": "nl",
+    "fullCountryName": "Netherlands",
+    "countryCode": "+31"
+  },
+  {
+    "shortCountryName": "ni",
+    "fullCountryName": "Nicaragua",
+    "countryCode": "+505"
+  },
+  {
+    "shortCountryName": "nu",
+    "fullCountryName": "Niue",
+    "countryCode": "+683"
+  },
+  {
+    "shortCountryName": "kp",
+    "fullCountryName": "North Korea",
+    "countryCode": "+850"
+  },
+  {
+    "shortCountryName": "no",
+    "fullCountryName": "Norway",
+    "countryCode": "+47"
+  },
+  {
+    "shortCountryName": "pk",
+    "fullCountryName": "Pakistan",
+    "countryCode": "+92"
+  },
+  {
+    "shortCountryName": "pa",
+    "fullCountryName": "Panama",
+    "countryCode": "+507"
+  },
+  {
+    "shortCountryName": "py",
+    "fullCountryName": "Paraguay",
+    "countryCode": "+595"
+  },
+  {
+    "shortCountryName": "pe",
+    "fullCountryName": "Peru",
+    "countryCode": "+51"
+  },
+  {
+    "shortCountryName": "ph",
+    "fullCountryName": "Philippines",
+    "countryCode": "+63"
+  },
+  {
+    "shortCountryName": "pl",
+    "fullCountryName": "Poland",
+    "countryCode": "+48"
+  },
+  {
+    "shortCountryName": "pt",
+    "fullCountryName": "Portugal",
+    "countryCode": "+351"
+  },
+  {
+    "shortCountryName": "pr",
+    "fullCountryName": "Puerto Rico",
+    "countryCode": "+1"
+  },
+  {
+    "shortCountryName": "ro",
+    "fullCountryName": "Romania",
+    "countryCode": "+40"
+  },
+  {
+    "shortCountryName": "ru",
+    "fullCountryName": "Russia",
+    "countryCode": "+7"
+  },
+  {
+    "shortCountryName": "bl",
+    "fullCountryName": "Saint Barthélemy",
+    "countryCode": "+590"
+  },
+  {
+    "shortCountryName": "kn",
+    "fullCountryName": "Saint Kitts and Nevis",
+    "countryCode": "+1869"
+  },
+  {
+    "shortCountryName": "lc",
+    "fullCountryName": "Saint Lucia",
+    "countryCode": "+1758"
+  },
+  {
+    "shortCountryName": "mf",
+    "fullCountryName": "Saint Martin",
+    "countryCode": "+590"
+  },
+  {
+    "shortCountryName": "pm",
+    "fullCountryName": "Saint Pierre and Miquelon",
+    "countryCode": "+508"
+  },
+  {
+    "shortCountryName": "vc",
+    "fullCountryName": "Saint Vincent and the Grenadines",
+    "countryCode": "+1784"
+  },
+  {
+    "shortCountryName": "sm",
+    "fullCountryName": "San Marino",
+    "countryCode": "+378"
+  },
+  {
+    "shortCountryName": "rs",
+    "fullCountryName": "Serbia",
+    "countryCode": "+381"
+  },
+  {
+    "shortCountryName": "sg",
+    "fullCountryName": "Singapore",
+    "countryCode": "+65"
+  },
+  {
+    "shortCountryName": "sx",
+    "fullCountryName": "Sint Maarten",
+    "countryCode": "+1721"
+  },
+  {
+    "shortCountryName": "sk",
+    "fullCountryName": "Slovakia",
+    "countryCode": "+421"
+  },
+  {
+    "shortCountryName": "si",
+    "fullCountryName": "Slovenia",
+    "countryCode": "+386"
+  },
+  {
+    "shortCountryName": "kr",
+    "fullCountryName": "South Korea",
+    "countryCode": "+82"
+  },
+  {
+    "shortCountryName": "es",
+    "fullCountryName": "Spain",
+    "countryCode": "+34"
+  },
+  {
+    "shortCountryName": "lk",
+    "fullCountryName": "Sri Lanka",
+    "countryCode": "+94"
+  },
+  {
+    "shortCountryName": "sr",
+    "fullCountryName": "Suriname",
+    "countryCode": "+597"
+  },
+  {
+    "shortCountryName": "se",
+    "fullCountryName": "Sweden",
+    "countryCode": "+46"
+  },
+  {
+    "shortCountryName": "ch",
+    "fullCountryName": "Switzerland",
+    "countryCode": "+41"
+  },
+  {
+    "shortCountryName": "tw",
+    "fullCountryName": "Taiwan",
+    "countryCode": "+886"
+  },
+  {
+    "shortCountryName": "tj",
+    "fullCountryName": "Tajikistan",
+    "countryCode": "+992"
+  },
+  {
+    "shortCountryName": "th",
+    "fullCountryName": "Thailand",
+    "countryCode": "+66"
+  },
+  {
+    "shortCountryName": "tl",
+    "fullCountryName": "Timor-Leste",
+    "countryCode": "+670"
+  },
+  {
+    "shortCountryName": "tt",
+    "fullCountryName": "Trinidad and Tobago",
+    "countryCode": "+1868"
+  },
+  {
+    "shortCountryName": "tr",
+    "fullCountryName": "Turkey",
+    "countryCode": "+90"
+  },
+  {
+    "shortCountryName": "tm",
+    "fullCountryName": "Turkmenistan",
+    "countryCode": "+993"
+  },
+  {
+    "shortCountryName": "tc",
+    "fullCountryName": "Turks and Caicos Islands",
+    "countryCode": "+1649"
+  },
+  {
+    "shortCountryName": "tv",
+    "fullCountryName": "Tuvalu",
+    "countryCode": "+688"
+  },
+  {
+    "shortCountryName": "vi",
+    "fullCountryName": "U.S. Virgin Islands",
+    "countryCode": "+1340"
+  },
+  {
+    "shortCountryName": "ua",
+    "fullCountryName": "Ukraine",
+    "countryCode": "+380"
+  },
+  {
+    "shortCountryName": "gb",
+    "fullCountryName": "United Kingdom",
+    "countryCode": "+44"
+  },
+  {
+    "shortCountryName": "us",
+    "fullCountryName": "United States",
+    "countryCode": "+1"
+  },
+  {
+    "shortCountryName": "uy",
+    "fullCountryName": "Uruguay",
+    "countryCode": "+598"
+  },
+  {
+    "shortCountryName": "uz",
+    "fullCountryName": "Uzbekistan",
+    "countryCode": "+998"
+  },
+  {
+    "shortCountryName": "va",
+    "fullCountryName": "Vatican City",
+    "countryCode": "+39"
+  },
+  {
+    "shortCountryName": "ve",
+    "fullCountryName": "Venezuela",
+    "countryCode": "+58"
+  },
+  {
+    "shortCountryName": "vn",
+    "fullCountryName": "Vietnam",
+    "countryCode": "+84"
+  }
+]

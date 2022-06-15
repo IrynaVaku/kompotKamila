@@ -14,4 +14,5 @@ describe('Create Client modal', () => {
         clientPage.btnCreate().click().wait(500)
         modalClient.btnCancel().contains('Cancel').click()
     })
+    
 })

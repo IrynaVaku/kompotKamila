@@ -1,4 +1,4 @@
-import RegistrationPage from "../support/page_object/registrationPage";
+import RegistrationPage from "../../support/page_object/beforeLoginPOM/registrationPage";
 
 const registrationPage = new RegistrationPage()
 

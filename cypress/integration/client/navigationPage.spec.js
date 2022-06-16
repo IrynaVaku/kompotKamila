@@ -1,4 +1,4 @@
-import NavigationPage from "../support/page_object/navigationPage";
+import NavigationPage from "../../support/page_object/navigationPage";
 const navigationPage = new NavigationPage()
 
 

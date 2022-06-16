@@ -1,5 +1,5 @@
-import BasePage from '../support/page_object/basePage';
-import RegistrationPage from '../support/page_object/registrationPage';
+import BasePage from '../../support/page_object/beforeLoginPOM/basePage';
+import RegistrationPage from '../../support/page_object/registrationPage';
 const basePage = new BasePage();
 const registrationPage = new RegistrationPage();
 

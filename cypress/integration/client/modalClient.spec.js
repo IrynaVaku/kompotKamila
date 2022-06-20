@@ -3,7 +3,7 @@ import ClientPage from '../../support/page_object/clientPage';
 const modalClient = new ModalClient();
 const clientPage = new ClientPage();
 
-describe('Create Client modal first', () => {
+describe('Create Client modal first2', () => {
   it('modal client page ', function () {
     cy.modalClientCreate();
     // modalClient.btnCancel().contains('Cancel').click()

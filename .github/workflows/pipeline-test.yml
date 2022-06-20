@@ -29,4 +29,4 @@ jobs:
     - name: npm install all npm packages
     - run: npm i
     - name: run test clientPage.spec.js
-    - run: npm test
+    - run: npm run pipeline

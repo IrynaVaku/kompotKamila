@@ -4,7 +4,8 @@
   "description": "auto tests",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open"
+    "test": "cypress open",
+    "pipeline": "npx cypress run --spec 'cypress/integration/client/clientPage.spec.js'"
   },
   "repository": {
     "type": "git",

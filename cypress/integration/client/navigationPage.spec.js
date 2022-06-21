@@ -3,11 +3,13 @@ const navigationPage = new NavigationPage()
 
 
 describe('Navigation page', () =>{
-    it('navigation page', () => {
+    it('Log in', () => {
         cy.login()
-        navigationPage.logo().should('be.visible').contains('Kompot')
-
-
+        
+    })
+    it('navigation page', () => {
+        navigationPage.logo().should('be.visible').should('have.text','Kompot')
+    
         // navigationPage.clientsTopMenu().should('be.visible').contains('Clients').click().wait(2000).go('back')
         // navigationPage.ordersTopMenu().should('be.visible').contains('Orders').click().wait(2000).go('back')
         // navigationPage.estimatesTopMenu().should('be.visible').contains('Estimates').click().wait(2000).go('back')
@@ -22,7 +24,7 @@ describe('Navigation page', () =>{
 
              navigationPage.humburgerMenuOpen('Address')
 
-            navigationPage.iconInfo().should('be.visible').click().wait(2000)
+            //navigationPage.iconInfo().should('be.visible').click().wait(2000)
             navigationPage.iconDocs().should('be.visible').click().wait(2000).go('back')
             navigationPage.iconSettings().should('be.visible').click().wait(2000).go('back')
             navigationPage.iconBell().should('be.visible').click().wait(2000).go('back')
@@ -34,6 +36,6 @@ describe('Navigation page', () =>{
             navigationPage.dropCompanyAccount().should('be.visible').wait(2000).click().wait(2000).visit('/')
             navigationPage.iconUserDrop().should('be.visible').click().wait(2000)
             navigationPage.dropLogout().should('be.visible').click().wait(2000);
-            cy.login()
+            
 })
 })
